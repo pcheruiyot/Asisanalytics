@@ -1,2 +1,2 @@
-# quarto-site-template
+# Asisanalytics blog
 Example quarto site without R or Python!
